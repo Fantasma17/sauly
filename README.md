@@ -1,6 +1,6 @@
 ### Hola 👋, sauly Cermeño
 #### estudiante de ingeniera 
-![estudiante de ingeniera ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![estudiante de ingeniera ]()
 
 Soy una profesional entusiasta y orientada a resultados, 
                         con una pasión por el aprendizaje continuo y la superación de desafíos. Mi experiencia me ha permitido desarrollar una habilidad notable para trabajar en entornos dinámicos y diversos, adaptándome rápidamente a nuevas situaciones y demandas.
